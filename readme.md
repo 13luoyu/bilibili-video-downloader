@@ -15,7 +15,7 @@
 - git clone https://github.com/13luoyu/bilibili-video-downloader
 
 #### 四、使用python运行项目
-我们以下载UP咻咻满的《孤勇者》为例，说明工具的运行  
+我们以下载UP咻咻满的《九九八十一》为例，说明工具的运行  
 
 - python bilibili-video-downloader.py
 - 从B站复制视频地址到对话框中，如 https://www.bilibili.com/video/BV11W4y1k7kD?spm_id_from=333.337.search-card.all.click&vd_source=e451850282ff73c07332cc6cd961137e
